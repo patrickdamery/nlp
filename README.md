@@ -8,4 +8,4 @@ You can find the training dataset here:
 https://drive.google.com/file/d/1cLbURdns3iXjiDh1aZncIzISl5aoeaUI/view?usp=sharing
 
 Once you have the training dataset run:
-python driver.py
+python3 driver.py
